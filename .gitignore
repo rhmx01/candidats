@@ -1,0 +1,8 @@
+
+server/node_modules
+frontend/.angular
+frontend/.vscode
+frontend/dist
+frontend/node_modules
+server/.idea
+frontend/.idea
